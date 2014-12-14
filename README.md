@@ -1,7 +1,5 @@
 JMSGames
 ========
-Senior design project @ Lawrence Technological University. Course taken in 2012 for Electrical & Computer Engineering senior design.
-
 ####OVERVIEW:
 
 JMSGames is a senior design project for the electrical & computer engineering department at Lawrence Technological University in Southfield, MI. The course was taken in the 2011-2012 school year over two semesters.
